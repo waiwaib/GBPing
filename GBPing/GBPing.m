@@ -71,6 +71,7 @@ static NSTimeInterval const kDefaultTimeout =           2.0;
             }
         }
         else {
+            
             _timeout = timeout;
         }
     }
